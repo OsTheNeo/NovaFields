@@ -33,3 +33,8 @@ public function fields(Request $request){
     ];
 }
 ```
+
+
+## License
+
+The MIT License (MIT). Please see [License File](https://raw.githubusercontent.com/OsTheNeo/NovaFields/master/LICENSE) for more information.
