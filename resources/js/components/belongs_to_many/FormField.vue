@@ -172,6 +172,7 @@ export default {
 };
 </script>
 
+<style src="@vueform/multiselect/themes/default.css"></style>
 <style type="text/css">
 .multiselect__placeholder {
     font-size: 1rem;
