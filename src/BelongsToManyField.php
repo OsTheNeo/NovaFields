@@ -2,7 +2,7 @@
 
 namespace OsTheNeo\NovaFields;
 
-use OsTheNeo\Fields\Rules\ArrayRules;
+use OsTheNeo\NovaFields\Rules\ArrayRules;
 use Laravel\Nova\Fields\Field;
 use Laravel\Nova\Fields\ResourceRelationshipGuesser;
 use Laravel\Nova\Http\Requests\NovaRequest;
