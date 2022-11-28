@@ -1,6 +1,6 @@
 <?php
 
-namespace OsTheNeo\Fields\Rules;
+namespace OsTheNeo\NovaFields\Rules;
 
 use Illuminate\Contracts\Validation\Rule;
 
