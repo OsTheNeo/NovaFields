@@ -1,6 +1,6 @@
 <?php
 
-namespace Ostheneo\NovaFields;
+namespace OsTheNeo\NovaFields;
 
 use Illuminate\Support\ServiceProvider;
 use Laravel\Nova\Events\ServingNova;
